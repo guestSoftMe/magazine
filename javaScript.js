@@ -16,3 +16,6 @@ $(document).ready(function () {
   $('.mens_rowBodyBasketRatingP').addRating();
   $('.mens_rowBodyBasketRatingK').addRating();
 });
+window.FontAwesomeConfig = {
+      searchPseudoElements: true
+   }
