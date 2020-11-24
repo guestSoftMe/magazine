@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import "nullStyle.css";
 @import "starRaiting.css";
+@import 'icon.css';
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
 .mens_right, .mens_left img, .contentBasketProduct_containerL, .contentBasketTotal_rightBodyR, .contentBasketTotal_rightBodyL, .contentBasketTotal_left, .contentBasket .contentBasketLeft {
   box-shadow: 0 0 15px #e4e3e3;
