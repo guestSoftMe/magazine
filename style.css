@@ -285,7 +285,7 @@ body {
   background-color: #eaeaea;
 }
 .content_menu a:after {
-  content: "";
+  content: "\f144";
   font-family: "Font Awesome 5 Free", "Font Awesome 5 Brands";
   position: absolute;
   width: 10px;
